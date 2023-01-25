@@ -1,4 +1,4 @@
-CONFIG_PATH := hardware/qcom/media/conf_files/bengal
+CONFIG_PATH := hardware/qcom-caf/sm8250/media/conf_files/bengal
 #Bring all FEATURE FLAG (Compilation) here
 
 PRODUCT_COPY_FILES += \
